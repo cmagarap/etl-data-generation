@@ -134,3 +134,11 @@ Home & Kitchen        |  343450182.9|
 Sports                | 325501928.62|
 Toys & Games          | 310754310.65|
 ```
+
+
+## Findings
+In this project, I found that creating the dataset posed more challenges than developing the ETL pipeline itself. This was partly due to my limited experience in generating synthetic data, as I typically rely on publicly available datasets for my personal projects. To generate the dataset, I employed techniques such as scaling and adjusting distributions, as well as introducing outliers and noise to simulate real-world scenarios.
+
+I chose PySpark for this pipeline to handle potentially large datasets efficiently through its distributed computing capabilities. For larger datasets, SQLite may not be suitable; instead, cloud storage solutions or data warehouses like BigQuery, MySQL, or Postgres are more appropriate choices.
+
+For data visualization, I utilized Plotly to create a line graph displaying the total sales of products over a two-year period. I aggregated the data on a monthly basis to provide a clearer overview compared to daily data, enhancing the insights presented in the line graph.
