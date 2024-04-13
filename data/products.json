@@ -1,0 +1,1431 @@
+{
+    "Electronics": [
+        {
+            "product_id": 10000,
+            "product_name": "Apple iPhone 13",
+            "price": 799
+        },
+        {
+            "product_id": 10001,
+            "product_name": "Apple iPhone 13 Mini",
+            "price": 699
+        },
+        {
+            "product_id": 10002,
+            "product_name": "Samsung Galaxy S22",
+            "price": 799.99
+        },
+        {
+            "product_id": 10003,
+            "product_name": "Google Pixel 6",
+            "price": 599
+        },
+        {
+            "product_id": 10004,
+            "product_name": "Apple MacBook Air M1",
+            "price": 999
+        },
+        {
+            "product_id": 10005,
+            "product_name": "Apple MacBook Pro 13-inch M1",
+            "price": 1299
+        },
+        {
+            "product_id": 10006,
+            "product_name": "Apple MacBook Pro 16-inch",
+            "price": 2399
+        },
+        {
+            "product_id": 10007,
+            "product_name": "Apple Mac Mini M1",
+            "price": 499
+        },
+        {
+            "product_id": 10008,
+            "product_name": "Dell XPS 13",
+            "price": 1099
+        },
+        {
+            "product_id": 10009,
+            "product_name": "HP Spectre x360",
+            "price": 1750
+        },
+        {
+            "product_id": 10010,
+            "product_name": "Lenovo ThinkPad X1 Carbon",
+            "price": 1269.99
+        },
+        {
+            "product_id": 10011,
+            "product_name": "Apple iPad Pro M1 11-inch",
+            "price": 899
+        },
+        {
+            "product_id": 10012,
+            "product_name": "Samsung QLED TV",
+            "price": 447.99
+        },
+        {
+            "product_id": 10013,
+            "product_name": "LG 40-Inch Smart TV",
+            "price": 1299.50
+        },
+        {
+            "product_id": 10014,
+            "product_name": "Sony 43 Inch 4K Ultra HD TV X77L Series",
+            "price": 361.09
+        },
+        {
+            "product_id": 10015,
+            "product_name": "Apple AirPods Pro",
+            "price": 249
+        },
+        {
+            "product_id": 10016,
+            "product_name": "Sony WH-1000XM4 Wireless Headphones",
+            "price": 299
+        },
+        {
+            "product_id": 10017,
+            "product_name": "Bose QuietComfort Earbuds",
+            "price": 279
+        },
+        {
+            "product_id": 10018,
+            "product_name": "Apple Watch Series 7",
+            "price": 399
+        },
+        {
+            "product_id": 10019,
+            "product_name": "Samsung Galaxy Watch 4",
+            "price": 349
+        },
+        {
+            "product_id": 10020,
+            "product_name": "Fitbit Versa 3",
+            "price": 99.99
+        },
+        {
+            "product_id": 10021,
+            "product_name": "Canon EOS Rebel T7i",
+            "price": 349
+        },
+        {
+            "product_id": 10022,
+            "product_name": "Sony Alpha a7 III",
+            "price": 1498
+        },
+        {
+            "product_id": 10023,
+            "product_name": "Fujifilm X-T4 Mirrorless Camera",
+            "price": 1898
+        },
+        {
+            "product_id": 10024,
+            "product_name": "GoPro Hero 10 Black",
+            "price": 239.99
+        },
+        {
+            "product_id": 10025,
+            "product_name": "PlayStation 5",
+            "price": 499
+        },
+        {
+            "product_id": 10026,
+            "product_name": "Xbox Series X",
+            "price": 499.99
+        },
+        {
+            "product_id": 10027,
+            "product_name": "Nintendo Switch OLED",
+            "price": 349
+        },
+        {
+            "product_id": 10028,
+            "product_name": "Nintendo Switch Lite",
+            "price": 199
+        },
+        {
+            "product_id": 10029,
+            "product_name": "Dell Ultrasharp 27 Monitor",
+            "price": 209
+        },
+        {
+            "product_id": 10030,
+            "product_name": "WD My Passport External Hard Drive",
+            "price": 79.99
+        },
+        {
+            "product_id": 10031,
+            "product_name": "Logitech MX Master 3 Mouse",
+            "price": 98
+        },
+        {
+            "product_id": 10032,
+            "product_name": "TP-Link Archer AX6000 Router",
+            "price": 169
+        },
+        {
+            "product_id": 10033,
+            "product_name": "Google Nest Wifi Router",
+            "price": 199.95
+        },
+        {
+            "product_id": 10034,
+            "product_name": "Apple HomePod Mini",
+            "price": 99
+        },
+        {
+            "product_id": 10035,
+            "product_name": "Amazon Echo Dot (4th Gen)",
+            "price": 49.99
+        },
+        {
+            "product_id": 10036,
+            "product_name": "Roku Streaming Stick+",
+            "price": 49.99
+        },
+        {
+            "product_id": 10037,
+            "product_name": "Samsung Galaxy Tab S7",
+            "price": 649.99
+        },
+        {
+            "product_id": 10038,
+            "product_name": "Microsoft Surface Laptop 4",
+            "price": 1299
+        },
+        {
+            "product_id": 10039,
+            "product_name": "Asus ROG Strix Scar 15 Gaming Laptop",
+            "price": 1999.99
+        },
+        {
+            "product_id": 10040,
+            "product_name": "Razer DeathAdder Elite Gaming Mouse",
+            "price": 69.99
+        },
+        {
+            "product_id": 10041,
+            "product_name": "Corsair K70 RGB Mechanical Gaming Keyboard",
+            "price": 159.99
+        },
+        {
+            "product_id": 10042,
+            "product_name": "Sony PlayStation VR Bundle",
+            "price": 299.99
+        },
+        {
+            "product_id": 10043,
+            "product_name": "Nintendo Switch Pro Controller",
+            "price": 69.99
+        },
+        {
+            "product_id": 10044,
+            "product_name": "Anker PowerCore 20000 Portable Charger",
+            "price": 49.99
+        },
+        {
+            "product_id": 10045,
+            "product_name": "DJI Mavic Air 2 Drone",
+            "price": 799
+        },
+        {
+            "product_id": 10046,
+            "product_name": "Garmin Forerunner 945 GPS Smartwatch",
+            "price": 599.99
+        },
+        {
+            "product_id": 10047,
+            "product_name": "Sony A8H 65-inch OLED 4K TV",
+            "price": 2499.99
+        },
+        {
+            "product_id": 10048,
+            "product_name": "Bose SoundLink Revolve+ Bluetooth Speaker",
+            "price": 299
+        },
+        {
+            "product_id": 10049,
+            "product_name": "JBL Charge 4 Portable Bluetooth Speaker",
+            "price": 179.95
+        },
+        {
+            "product_id": 10050,
+            "product_name": "Logitech C920 HD Pro Webcam",
+            "price": 79.99
+        }
+    ],
+    "Clothing": [
+        {
+            "product_id": 20000,
+            "product_name": "Hanes Crewneck T-shirt",
+            "price": 28.65
+        },
+        {
+            "product_id": 20001,
+            "product_name": "Levi's Skinny Jeans",
+            "price": 49.99
+        },
+        {
+            "product_id": 20002,
+            "product_name": "Old Navy Maxi Dress",
+            "price": 39.99
+        },
+        {
+            "product_id": 20003,
+            "product_name": "Wrangler Denim Jacket",
+            "price": 69.99
+        },
+        {
+            "product_id": 20004,
+            "product_name": "Dockers Chinos",
+            "price": 34.99
+        },
+        {
+            "product_id": 20005,
+            "product_name": "Mini Skirt Forever 21",
+            "price": 24.99
+        },
+        {
+            "product_id": 20006,
+            "product_name": "Crewneck Sweater Gap",
+            "price": 59.99
+        },
+        {
+            "product_id": 20007,
+            "product_name": "Silk Blouse Forever 21",
+            "price": 39.99
+        },
+        {
+            "product_id": 20008,
+            "product_name": "Denim Shorts American Eagle",
+            "price": 29.99
+        },
+        {
+            "product_id": 20009,
+            "product_name": "Burberry Trench Coat",
+            "price": 89.99
+        },
+        {
+            "product_id": 20010,
+            "product_name": "Ralph Lauren Polo Shirt",
+            "price": 32.50
+        },
+        {
+            "product_id": 20011,
+            "product_name": "Levi's High-Waisted Jeans",
+            "price": 54.99
+        },
+        {
+            "product_id": 20012,
+            "product_name": "Lulus A-Line Dress",
+            "price": 45.99
+        },
+        {
+            "product_id": 20013,
+            "product_name": "AllSaints Leather Jacket",
+            "price": 99.99
+        },
+        {
+            "product_id": 20014,
+            "product_name": "Uniqlo Cargo Pants",
+            "price": 39.95
+        },
+        {
+            "product_id": 20015,
+            "product_name": "Midi Skirt Zara",
+            "price": 29.95
+        },
+        {
+            "product_id": 20016,
+            "product_name": "H&M V-Neck Sweater",
+            "price": 49.99
+        },
+        {
+            "product_id": 20017,
+            "product_name": "Banana Republic Button-Down Shirt",
+            "price": 37.50
+        },
+        {
+            "product_id": 20018,
+            "product_name": "New Balance Athletic Shorts",
+            "price": 19.99
+        },
+        {
+            "product_id": 20019,
+            "product_name": "Calvin Klein Peacoat",
+            "price": 79.99
+        },
+        {
+            "product_id": 20020,
+            "product_name": "Uniqlo Graphic T-shirt",
+            "price": 21.99
+        },
+        {
+            "product_id": 20021,
+            "product_name": "Adidas Joggers",
+            "price": 44.95
+        },
+        {
+            "product_id": 20022,
+            "product_name": "H&M Shift Dress",
+            "price": 34.99
+        },
+        {
+            "product_id": 20023,
+            "product_name": "Uniqlo Bomber Jacket",
+            "price": 59.95
+        },
+        {
+            "product_id": 20024,
+            "product_name": "Express Ankle Pants",
+            "price": 29.99
+        },
+        {
+            "product_id": 20025,
+            "product_name": "Wrap Skirt Forever 21",
+            "price": 27.99
+        },
+        {
+            "product_id": 20026,
+            "product_name": "Madewell Cardigan",
+            "price": 49.95
+        },
+        {
+            "product_id": 20027,
+            "product_name": "Anthropologie Ruffled Blouse",
+            "price": 36.50
+        },
+        {
+            "product_id": 20028,
+            "product_name": "Gap Cargo Shorts",
+            "price": 24.99
+        }
+    ],
+    "Home & Kitchen": [
+        {
+            "product_id": 30000,
+            "product_name": "Ninja Blender",
+            "price": 49.99
+        },
+        {
+            "product_id": 30001,
+            "product_name": "Keurig Coffee Maker",
+            "price": 39.95
+        },
+        {
+            "product_id": 30002,
+            "product_name": "Cuisinart Toaster",
+            "price": 29.99
+        },
+        {
+            "product_id": 30003,
+            "product_name": "Hamilton Beach Food Processor",
+            "price": 59.99
+        },
+        {
+            "product_id": 30004,
+            "product_name": "Ovente Electric Kettle",
+            "price": 34.99
+        },
+        {
+            "product_id": 30005,
+            "product_name": "KitchenAid Stand Mixer",
+            "price": 149.99
+        },
+        {
+            "product_id": 30006,
+            "product_name": "Cosori Air Fryer",
+            "price": 79.99
+        },
+        {
+            "product_id": 30007,
+            "product_name": "Instant Pot Pressure Cooker",
+            "price": 89.95
+        },
+        {
+            "product_id": 30008,
+            "product_name": "Crock-Pot Slow Cooker",
+            "price": 49.99
+        },
+        {
+            "product_id": 30009,
+            "product_name": "Breville Juicer",
+            "price": 54.99
+        },
+        {
+            "product_id": 30010,
+            "product_name": "Zojirushi Rice Cooker",
+            "price": 39.99
+        },
+        {
+            "product_id": 30011,
+            "product_name": "Henckels Knife Set",
+            "price": 79.95
+        },
+        {
+            "product_id": 30012,
+            "product_name": "Dyson Handheld Vacuum Cleaner",
+            "price": 69.99
+        },
+        {
+            "product_id": 30013,
+            "product_name": "iRobot Roomba Robot Vacuum Cleaner",
+            "price": 249.99
+        },
+        {
+            "product_id": 30014,
+            "product_name": "Calphalon Cookware Set",
+            "price": 129.99
+        },
+        {
+            "product_id": 30015,
+            "product_name": "Libbey Glassware Set",
+            "price": 24.99
+        },
+        {
+            "product_id": 30016,
+            "product_name": "OXO Cutting Board",
+            "price": 19.99
+        },
+        {
+            "product_id": 30017,
+            "product_name": "Pyrex Mixing Bowls",
+            "price": 29.95
+        },
+        {
+            "product_id": 30018,
+            "product_name": "Corelle Dinnerware Set",
+            "price": 69.95
+        },
+        {
+            "product_id": 30019,
+            "product_name": "Oneida Flatware Set",
+            "price": 49.99
+        },
+        {
+            "product_id": 30020,
+            "product_name": "Panasonic Microwave Oven",
+            "price": 99.99
+        },
+        {
+            "product_id": 30021,
+            "product_name": "Breville Toaster Oven",
+            "price": 59.99
+        },
+        {
+            "product_id": 30022,
+            "product_name": "GE Dishwasher",
+            "price": 499.99
+        },
+        {
+            "product_id": 30023,
+            "product_name": "Samsung Refrigerator",
+            "price": 799.99
+        },
+        {
+            "product_id": 30024,
+            "product_name": "Ashley Furniture Coffee Table",
+            "price": 149.99
+        },
+        {
+            "product_id": 30025,
+            "product_name": "Wayfair Dining Table",
+            "price": 299.99
+        },
+        {
+            "product_id": 30026,
+            "product_name": "IKEA Kitchen Cart",
+            "price": 129.95
+        },
+        {
+            "product_id": 30027,
+            "product_name": "Winsome Bar Stools (Set of 2)",
+            "price": 99.99
+        },
+        {
+            "product_id": 30028,
+            "product_name": "Safavieh Area Rug",
+            "price": 79.99
+        },
+        {
+            "product_id": 30029,
+            "product_name": "Lush Decor Curtains (Pair)",
+            "price": 39.99
+        }
+    ],
+    "Books": [
+        {
+            "product_id": 40000,
+            "product_name": "The Great Gatsby",
+            "price": 12.99
+        },
+        {
+            "product_id": 40001,
+            "product_name": "To Kill a Mockingbird",
+            "price": 10.99
+        },
+        {
+            "product_id": 40002,
+            "product_name": "1984",
+            "price": 9.99
+        },
+        {
+            "product_id": 40003,
+            "product_name": "Pride and Prejudice",
+            "price": 7.99
+        },
+        {
+            "product_id": 40004,
+            "product_name": "The Catcher in the Rye",
+            "price": 11.99
+        },
+        {
+            "product_id": 40005,
+            "product_name": "Harry Potter and the Sorcerer's Stone",
+            "price": 14.99
+        },
+        {
+            "product_id": 40006,
+            "product_name": "The Hobbit",
+            "price": 8.99
+        },
+        {
+            "product_id": 40007,
+            "product_name": "The Hunger Games",
+            "price": 8.49
+        },
+        {
+            "product_id": 40008,
+            "product_name": "The Girl with the Dragon Tattoo",
+            "price": 13.49
+        },
+        {
+            "product_id": 40009,
+            "product_name": "Gone Girl",
+            "price": 9.79
+        },
+        {
+            "product_id": 40010,
+            "product_name": "Educated",
+            "price": 12.59
+        },
+        {
+            "product_id": 40011,
+            "product_name": "Where the Crawdads Sing",
+            "price": 14.29
+        },
+        {
+            "product_id": 40012,
+            "product_name": "Becoming",
+            "price": 11.89
+        },
+        {
+            "product_id": 40013,
+            "product_name": "Sapiens: A Brief History of Humankind",
+            "price": 14.99
+        },
+        {
+            "product_id": 40014,
+            "product_name": "The Subtle Art of Not Giving a F*ck",
+            "price": 9.29
+        },
+        {
+            "product_id": 40015,
+            "product_name": "The Silent Patient",
+            "price": 12.79
+        },
+        {
+            "product_id": 40016,
+            "product_name": "The Alchemist",
+            "price": 10.49
+        },
+        {
+            "product_id": 40017,
+            "product_name": "Born a Crime",
+            "price": 11.39
+        },
+        {
+            "product_id": 40018,
+            "product_name": "The Night Circus",
+            "price": 13.99
+        },
+        {
+            "product_id": 40019,
+            "product_name": "The Goldfinch",
+            "price": 13.49
+        },
+        {
+            "product_id": 40020,
+            "product_name": "Little Women",
+            "price": 9.99
+        },
+        {
+            "product_id": 40021,
+            "product_name": "The Lord of the Rings",
+            "price": 16.99
+        },
+        {
+            "product_id": 40022,
+            "product_name": "The Chronicles of Narnia",
+            "price": 19.99
+        },
+        {
+            "product_id": 40023,
+            "product_name": "A Game of Thrones",
+            "price": 8.99
+        },
+        {
+            "product_id": 40024,
+            "product_name": "The Fault in Our Stars",
+            "price": 10.49
+        },
+        {
+            "product_id": 40025,
+            "product_name": "The Road",
+            "price": 11.99
+        },
+        {
+            "product_id": 40026,
+            "product_name": "Brave New World",
+            "price": 12.99
+        },
+        {
+            "product_id": 40027,
+            "product_name": "The Handmaid's Tale",
+            "price": 9.79
+        },
+        {
+            "product_id": 40028,
+            "product_name": "The Kite Runner",
+            "price": 11.89
+        },
+        {
+            "product_id": 40029,
+            "product_name": "Dune",
+            "price": 14.99
+        },
+        {
+            "product_id": 40030,
+            "product_name": "The Shining",
+            "price": 8.49
+        },
+        {
+            "product_id": 40031,
+            "product_name": "The Book Thief",
+            "price": 10.99
+        },
+        {
+            "product_id": 40032,
+            "product_name": "Wild",
+            "price": 13.49
+        },
+        {
+            "product_id": 40033,
+            "product_name": "Into the Wild",
+            "price": 9.29
+        },
+        {
+            "product_id": 40034,
+            "product_name": "The Martian",
+            "price": 12.79
+        },
+        {
+            "product_id": 40035,
+            "product_name": "The Girl on the Train",
+            "price": 10.49
+        },
+        {
+            "product_id": 40036,
+            "product_name": "The Help",
+            "price": 11.39
+        },
+        {
+            "product_id": 40037,
+            "product_name": "Eat, Pray, Love",
+            "price": 13.99
+        },
+        {
+            "product_id": 40038,
+            "product_name": "Crazy Rich Asians",
+            "price": 14.99
+        },
+        {
+            "product_id": 40039,
+            "product_name": "Where'd You Go, Bernadette",
+            "price": 9.99
+        },
+        {
+            "product_id": 40040,
+            "product_name": "Sharp Objects",
+            "price": 11.99
+        },
+        {
+            "product_id": 40041,
+            "product_name": "The Nightingale",
+            "price": 12.99
+        }
+    ],
+    "Sports": [
+        {
+            "product_id": 50000,
+            "product_name": "Nike Football (Size 5)",
+            "price": 29.99
+        },
+        {
+            "product_id": 50001,
+            "product_name": "Wilson NBA Basketball",
+            "price": 24.99
+        },
+        {
+            "product_id": 50002,
+            "product_name": "Wilson Federer Tennis Racket",
+            "price": 59.99
+        },
+        {
+            "product_id": 50003,
+            "product_name": "Callaway Men's Golf Clubs (Complete Set)",
+            "price": 699.99
+        },
+        {
+            "product_id": 50004,
+            "product_name": "Gaiam Essentials Yoga Mat",
+            "price": 19.99
+        },
+        {
+            "product_id": 50005,
+            "product_name": "Bowflex SelectTech Dumbbells (Pair, 5-52.5 lbs)",
+            "price": 499.99
+        },
+        {
+            "product_id": 50006,
+            "product_name": "Epitomie Fitness Jump Rope",
+            "price": 9.99
+        },
+        {
+            "product_id": 50007,
+            "product_name": "Everlast Pro Style Training Boxing Gloves",
+            "price": 79.99
+        },
+        {
+            "product_id": 50008,
+            "product_name": "Brooks Men's Ghost 14 Running Shoes",
+            "price": 129.99
+        },
+        {
+            "product_id": 50009,
+            "product_name": "Cannondale Synapse Carbon Disc Ultegra Bicycle",
+            "price": 1999.99
+        },
+        {
+            "product_id": 50010,
+            "product_name": "Adidas MLS Soccer Ball",
+            "price": 19.99
+        },
+        {
+            "product_id": 50011,
+            "product_name": "Mikasa Indoor Volleyball",
+            "price": 39.99
+        },
+        {
+            "product_id": 50012,
+            "product_name": "NordicTrack Commercial 1750 Treadmill",
+            "price": 999.99
+        },
+        {
+            "product_id": 50013,
+            "product_name": "Burton Custom Flying V Snowboard",
+            "price": 499.99
+        },
+        {
+            "product_id": 50014,
+            "product_name": "Speedo Vanquisher 2.0 Swimming Goggles",
+            "price": 19.99
+        },
+        {
+            "product_id": 50015,
+            "product_name": "Fitbit Charge 5 Fitness Tracker",
+            "price": 179.95
+        },
+        {
+            "product_id": 50016,
+            "product_name": "Hydro Flask Standard Mouth Water Bottle",
+            "price": 29.95
+        },
+        {
+            "product_id": 50017,
+            "product_name": "Salomon Quest 4D 3 GTX Hiking Boots",
+            "price": 219.99
+        },
+        {
+            "product_id": 50018,
+            "product_name": "Rossignol Experience 88 Ti Ski Equipment (Skis + Bindings)",
+            "price": 699.99
+        },
+        {
+            "product_id": 50019,
+            "product_name": "Coleman 6-Person Dome Camping Tent",
+            "price": 129.99
+        },
+        {
+            "product_id": 50020,
+            "product_name": "Under Armour Undeniable Duffel Gym Bag",
+            "price": 39.99
+        },
+        {
+            "product_id": 50021,
+            "product_name": "Rawlings Heart of the Hide Baseball Glove",
+            "price": 259.99
+        },
+        {
+            "product_id": 50022,
+            "product_name": "Shakespeare Ugly Stik GX2 Fishing Rod",
+            "price": 39.95
+        },
+        {
+            "product_id": 50023,
+            "product_name": "Pelican Argo 100X Kayak",
+            "price": 299.99
+        },
+        {
+            "product_id": 50024,
+            "product_name": "Wavestorm 8' Classic Surfboard",
+            "price": 199.99
+        },
+        {
+            "product_id": 50025,
+            "product_name": "iROCKER Cruiser Inflatable Paddleboard",
+            "price": 599.99
+        },
+        {
+            "product_id": 50026,
+            "product_name": "Giro Fixture MIPS Cycling Helmet",
+            "price": 64.95
+        },
+        {
+            "product_id": 50027,
+            "product_name": "Titleist Pro V1 Golf Balls (Dozen)",
+            "price": 49.99
+        },
+        {
+            "product_id": 50028,
+            "product_name": "ASICS Gel-Resolution 8 Tennis Shoes",
+            "price": 129.95
+        },
+        {
+            "product_id": 50029,
+            "product_name": "O'Neill Men's Reactor 3/2mm Wetsuit",
+            "price": 149.99
+        },
+        {
+            "product_id": 50030,
+            "product_name": "Fit Simplify Resistance Loop Exercise Bands (Set of 5)",
+            "price": 9.95
+        },
+        {
+            "product_id": 50031,
+            "product_name": "TriggerPoint GRID Foam Roller",
+            "price": 34.99
+        },
+        {
+            "product_id": 50032,
+            "product_name": "Cressi Panoramic Wide View Snorkel Mask",
+            "price": 44.95
+        },
+        {
+            "product_id": 50033,
+            "product_name": "TaylorMade Deluxe Cart Golf Bag",
+            "price": 179.99
+        },
+        {
+            "product_id": 50034,
+            "product_name": "Yonex Badminton Set",
+            "price": 69.99
+        },
+        {
+            "product_id": 50035,
+            "product_name": "HEAD Graphene Touch Speed 120 Squash Racquet",
+            "price": 99.95
+        },
+        {
+            "product_id": 50036,
+            "product_name": "La Sportiva TC Pro Rock Climbing Shoes",
+            "price": 190.00
+        },
+        {
+            "product_id": 50037,
+            "product_name": "Innova Disc Golf Starter Set",
+            "price": 24.99
+        }
+    ],
+    "Toys & Games": [
+        {
+            "product_id": 60000,
+            "product_name": "LEGO Star Wars Millennium Falcon Building Kit (75257)",
+            "price": 159.99
+        },
+        {
+            "product_id": 60001,
+            "product_name": "Barbie Dreamhouse Dollhouse with Pool, Slide, and Elevator",
+            "price": 199.99
+        },
+        {
+            "product_id": 60002,
+            "product_name": "NERF Elite 2.0 Shockwave RD-15 Blaster",
+            "price": 29.99
+        },
+        {
+            "product_id": 60003,
+            "product_name": "Melissa & Doug Deluxe Standing Art Easel",
+            "price": 79.99
+        },
+        {
+            "product_id": 60004,
+            "product_name": "Hot Wheels Criss Cross Crash Track Set",
+            "price": 49.99
+        },
+        {
+            "product_id": 60005,
+            "product_name": "Fisher-Price Little People Big Helpers Home",
+            "price": 39.99
+        },
+        {
+            "product_id": 60006,
+            "product_name": "VTech KidiZoom Creator Cam",
+            "price": 59.99
+        },
+        {
+            "product_id": 60007,
+            "product_name": "Play-Doh Kitchen Creations Ultimate Swirl Ice Cream Maker",
+            "price": 29.99
+        },
+        {
+            "product_id": 60008,
+            "product_name": "Crayola Inspiration Art Case",
+            "price": 24.99
+        },
+        {
+            "product_id": 60009,
+            "product_name": "Baby Alive Real As Can Be Baby Doll",
+            "price": 99.99
+        },
+        {
+            "product_id": 60010,
+            "product_name": "Nintendo Switch Console (Animal Crossing Edition)",
+            "price": 299.99
+        },
+        {
+            "product_id": 60011,
+            "product_name": "LEGO Harry Potter Hogwarts Great Hall Building Kit (75954)",
+            "price": 99.99
+        },
+        {
+            "product_id": 60012,
+            "product_name": "Marvel Legends Series Iron Man Electronic Helmet",
+            "price": 99.99
+        },
+        {
+            "product_id": 60013,
+            "product_name": "American Girl WellieWishers Ashlyn Doll",
+            "price": 59.99
+        },
+        {
+            "product_id": 60014,
+            "product_name": "Hasbro Gaming Monopoly Classic Game",
+            "price": 19.99
+        },
+        {
+            "product_id": 60015,
+            "product_name": "Razor A Kick Scooter",
+            "price": 29.99
+        },
+        {
+            "product_id": 60016,
+            "product_name": "Funko POP! Marvel: Avengers Endgame - Captain America",
+            "price": 10.99
+        },
+        {
+            "product_id": 60017,
+            "product_name": "Magna-Tiles Clear Colors 100-Piece Set",
+            "price": 119.99
+        },
+        {
+            "product_id": 60018,
+            "product_name": "PAW Patrol Ultimate Rescue Fire Truck",
+            "price": 59.99
+        },
+        {
+            "product_id": 60019,
+            "product_name": "LeapFrog LeapStart 3D Interactive Learning System",
+            "price": 49.99
+        },
+        {
+            "product_id": 60020,
+            "product_name": "LEGO Creator Expert Roller Coaster Building Kit (10261)",
+            "price": 379.99
+        },
+        {
+            "product_id": 60021,
+            "product_name": "L.O.L. Surprise! O.M.G. Fashion Doll",
+            "price": 26.99
+        },
+        {
+            "product_id": 60022,
+            "product_name": "Melissa & Doug Wooden Railway Set",
+            "price": 99.99
+        },
+        {
+            "product_id": 60023,
+            "product_name": "Beyblade Burst Surge Speedstorm Battle Set",
+            "price": 39.99
+        },
+        {
+            "product_id": 60024,
+            "product_name": "PlayStation 5 DualSense Wireless Controller",
+            "price": 69.99
+        },
+        {
+            "product_id": 60025,
+            "product_name": "Disney Frozen 2 Ultimate Arendelle Castle Playset",
+            "price": 199.99
+        },
+        {
+            "product_id": 60026,
+            "product_name": "Mattel Games UNO Card Game",
+            "price": 9.99
+        },
+        {
+            "product_id": 60027,
+            "product_name": "Nerf Rival Nemesis MXVII-10K Blaster",
+            "price": 99.99
+        },
+        {
+            "product_id": 60028,
+            "product_name": "Fisher-Price Laugh & Learn Smart Learning Home",
+            "price": 149.99
+        },
+        {
+            "product_id": 60029,
+            "product_name": "LOL Surprise OMG Remix 4-in-1 Plane Playset",
+            "price": 89.99
+        },
+        {
+            "product_id": 60030,
+            "product_name": "LEGO Technic Lamborghini Sián FKP 37 (42115)",
+            "price": 379.99
+        },
+        {
+            "product_id": 60031,
+            "product_name": "Minecraft Creeper Plush Stuffed Toy",
+            "price": 19.99
+        },
+        {
+            "product_id": 60032,
+            "product_name": "Super Mario Odyssey (Nintendo Switch)",
+            "price": 59.99
+        },
+        {
+            "product_id": 60033,
+            "product_name": "The Legend of Zelda: Breath of the Wild (Nintendo Switch)",
+            "price": 59.99
+        },
+        {
+            "product_id": 60034,
+            "product_name": "FIFA 22 (PlayStation 5)",
+            "price": 69.99
+        },
+        {
+            "product_id": 60035,
+            "product_name": "Call of Duty: Vanguard (Xbox Series X)",
+            "price": 59.99
+        },
+        {
+            "product_id": 60036,
+            "product_name": "Cyberpunk 2077 (PC)",
+            "price": 49.99
+        },
+        {
+            "product_id": 60037,
+            "product_name": "Animal Crossing: New Horizons (Nintendo Switch)",
+            "price": 49.99
+        },
+        {
+            "product_id": 60038,
+            "product_name": "Assassin's Creed Valhalla (PlayStation 4)",
+            "price": 39.99
+        },
+        {
+            "product_id": 60039,
+            "product_name": "Mario Kart 8 Deluxe (Nintendo Switch)",
+            "price": 59.99
+        },
+        {
+            "product_id": 60040,
+            "product_name": "Halo Infinite (Xbox Series X)",
+            "price": 59.99
+        },
+        {
+            "product_id": 60041,
+            "product_name": "The Last of Us Part II (PlayStation 4)",
+            "price": 39.99
+        },
+        {
+            "product_id": 60042,
+            "product_name": "Pokémon Sword and Shield (Nintendo Switch)",
+            "price": 59.99
+        },
+        {
+            "product_id": 60043,
+            "product_name": "Super Smash Bros. Mario Amiibo",
+            "price": 15.99
+        },
+        {
+            "product_id": 60044,
+            "product_name": "Super Smash Bros. Luigi Amiibo",
+            "price": 12.99
+        },
+        {
+            "product_id": 60045,
+            "product_name": "Super Smash Bros. Peach Amiibo",
+            "price": 12.99
+        },
+        {
+            "product_id": 60046,
+            "product_name": "Super Smash Bros. Bowser Amiibo",
+            "price": 15.99
+        },
+        {
+            "product_id": 60047,
+            "product_name": "Super Smash Bros. Donkey Kong Amiibo",
+            "price": 12.99
+        },
+        {
+            "product_id": 60048,
+            "product_name": "Super Smash Bros. Link Amiibo",
+            "price": 15.99
+        },
+        {
+            "product_id": 60049,
+            "product_name": "Super Smash Bros. Zelda Amiibo",
+            "price": 12.99
+        },
+        {
+            "product_id": 60050,
+            "product_name": "Super Smash Bros. Sheik Amiibo",
+            "price": 12.99
+        },
+        {
+            "product_id": 60051,
+            "product_name": "Super Smash Bros. Yoshi Amiibo",
+            "price": 12.99
+        },
+        {
+            "product_id": 60052,
+            "product_name": "Super Smash Bros. Kirby Amiibo",
+            "price": 12.99
+        },
+        {
+            "product_id": 60053,
+            "product_name": "Super Smash Bros. Fox Amiibo",
+            "price": 12.99
+        },
+        {
+            "product_id": 60054,
+            "product_name": "Super Smash Bros. Pikachu Amiibo",
+            "price": 12.99
+        },
+        {
+            "product_id": 6055,
+            "product_name": "Super Smash Bros. Samus Amiibo",
+            "price": 12.99
+        }
+    ],
+    "Beauty & Personal Care": [
+        {
+            "product_id": 70000,
+            "product_name": "CeraVe Hydrating Facial Cleanser",
+            "price": 14.99
+        },
+        {
+            "product_id": 70001,
+            "product_name": "Olay Regenerist Micro-Sculpting Cream",
+            "price": 24.99
+        },
+        {
+            "product_id": 70002,
+            "product_name": "Neutrogena Hydro Boost Water Gel",
+            "price": 16.97
+        },
+        {
+            "product_id": 70003,
+            "product_name": "Cetaphil Daily Facial Moisturizer",
+            "price": 14.99
+        },
+        {
+            "product_id": 70004,
+            "product_name": "Mario Badescu Facial Spray with Aloe, Herbs, and Rosewater",
+            "price": 7.00
+        },
+        {
+            "product_id": 70005,
+            "product_name": "The Ordinary Niacinamide 10% + Zinc 1%",
+            "price": 5.90
+        },
+        {
+            "product_id": 70006,
+            "product_name": "Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant",
+            "price": 29.50
+        },
+        {
+            "product_id": 70007,
+            "product_name": "Bioderma Sensibio H2O Micellar Water",
+            "price": 14.99
+        },
+        {
+            "product_id": 70008,
+            "product_name": "Dove Body Wash with Pump",
+            "price": 8.18
+        },
+        {
+            "product_id": 70009,
+            "product_name": "Aveeno Daily Moisturizing Lotion",
+            "price": 8.68
+        },
+        {
+            "product_id": 70010,
+            "product_name": "Garnier Fructis Sleek & Shine Shampoo",
+            "price": 2.82
+        },
+        {
+            "product_id": 70011,
+            "product_name": "L'Oréal Paris Voluminous Lash Paradise Mascara",
+            "price": 9.97
+        },
+        {
+            "product_id": 70012,
+            "product_name": "Maybelline New York Instant Age Rewind Concealer",
+            "price": 7.98
+        },
+        {
+            "product_id": 70013,
+            "product_name": "Revlon ColorStay Liquid Eyeliner",
+            "price": 6.79
+        },
+        {
+            "product_id": 70014,
+            "product_name": "NYX Professional Makeup Matte Lipstick",
+            "price": 6.00
+        },
+        {
+            "product_id": 70015,
+            "product_name": "Real Techniques Makeup Brushes (Set of 5)",
+            "price": 17.99
+        },
+        {
+            "product_id": 70016,
+            "product_name": "Olivia Garden NanoThermic Ceramic + Ion Round Brush",
+            "price": 20.95
+        },
+        {
+            "product_id": 70017,
+            "product_name": "ghd Platinum+ Professional Performance Hair Styler",
+            "price": 249.00
+        },
+        {
+            "product_id": 70018,
+            "product_name": "Dyson Supersonic Hair Dryer",
+            "price": 399.99
+        },
+        {
+            "product_id": 70019,
+            "product_name": "T3 Whirl Trio Interchangeable Styling Wand",
+            "price": 300.00
+        },
+        {
+            "product_id": 70020,
+            "product_name": "OPI Nail Lacquer",
+            "price": 10.50
+        },
+        {
+            "product_id": 70021,
+            "product_name": "Sally Hansen Insta-Dri Nail Color",
+            "price": 4.99
+        },
+        {
+            "product_id": 70022,
+            "product_name": "Dermalogica Daily Microfoliant Exfoliator",
+            "price": 59.00
+        },
+        {
+            "product_id": 70023,
+            "product_name": "SK-II Facial Treatment Essence",
+            "price": 185.00
+        },
+        {
+            "product_id": 70024,
+            "product_name": "La Roche-Posay Anthelios Melt-in Sunscreen Milk",
+            "price": 35.99
+        },
+        {
+            "product_id": 70025,
+            "product_name": "Supergoop! Unseen Sunscreen SPF 40",
+            "price": 34.00
+        },
+        {
+            "product_id": 70026,
+            "product_name": "Jack Black Intense Therapy Lip Balm SPF 25",
+            "price": 8.00
+        },
+        {
+            "product_id": 70027,
+            "product_name": "Kiehl's Ultra Facial Cream",
+            "price": 32.00
+        },
+        {
+            "product_id": 70028,
+            "product_name": "Burt's Bees Beeswax Lip Balm",
+            "price": 3.59
+        },
+        {
+            "product_id": 70029,
+            "product_name": "Vaseline Petroleum Jelly",
+            "price": 3.97
+        },
+        {
+            "product_id": 70030,
+            "product_name": "TRESemmé Moisture Rich Conditioner",
+            "price": 3.98
+        },
+        {
+            "product_id": 70031,
+            "product_name": "Dove Men+Care Body and Face Wash",
+            "price": 5.99
+        },
+        {
+            "product_id": 70032,
+            "product_name": "Old Spice Aluminum-Free Deodorant",
+            "price": 4.99
+        },
+        {
+            "product_id": 70033,
+            "product_name": "Harry's Truman Razor Set",
+            "price": 15.00
+        },
+        {
+            "product_id": 70034,
+            "product_name": "Gillette Venus Extra Smooth Razor",
+            "price": 12.99
+        },
+        {
+            "product_id": 70035,
+            "product_name": "FOREO LUNA Mini 2 Facial Cleansing Brush",
+            "price": 119.00
+        },
+        {
+            "product_id": 70036,
+            "product_name": "Philips Sonicare DiamondClean Smart Electric Toothbrush",
+            "price": 199.95
+        }
+    ]
+}
